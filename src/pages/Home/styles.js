@@ -23,22 +23,7 @@ height: 100vh;
 
 
 `
-export const TopBackground = styled.div `
-background: linear-gradient(to right, #fe7e5d, #7f3841);
-height: 30vh;
-width: 90vw;
-border-radius: 30px;
-display: flex;
-align-items: center;
-justify-content: center;
-max-width: 750px;
 
-img {
-max-width: 100%;
-max-height: 100%;
-}
-
-`
 export const Form = styled.form `
 
 display: flex;
@@ -81,27 +66,5 @@ font-weight: bold;
 
 `
 
-export const Button = styled.button `
 
-border: none;
-background: linear-gradient(180deg, #FE7E5D 0%, #FF6378 100%);
-font-size: 16px;
-color: #fff;
-padding: 16px 32px;
-width: fit-content;
-cursor: pointer;
-border-radius: 30px;
-
-&:hover {
-
-    opacity: 0.8;
-}
-
-&:active {
-
-    opacity: 0.5;
-}
-
-
-`
 
