@@ -1,8 +1,17 @@
-# React + Vite
+<h1 align="center">
+  Criando Usuários React </h1>
+<br>
+<h3 align="center">Estudo de React.js e Node.js Front e Back-End..</h3>
+<br>
+<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  <img width="" src=""/>
+</div>
+<br>
+<h3 align="center">Criação de API e ligação do Front-End com Back-End utilizando JSON.</h3>
+<br>
 
-Currently, two official plugins are available:
+<div align="center"> 
+Link para Repositório Node.js: https://github.com/Zucchi100/Node.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
