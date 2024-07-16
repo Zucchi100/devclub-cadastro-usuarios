@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img width="" src=""/>
+  <img width="700" src="src/assets/Novo Projeto (7).png"/>
 </div>
 <br>
 <h3 align="center">Criação de API e ligação do Front-End com Back-End utilizando JSON.</h3>
